@@ -7,6 +7,7 @@ namespace GROUP_9_GITHUB_HELLOWORLD
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Joash Pancham.")
         }
     }
 }
